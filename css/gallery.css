@@ -12,6 +12,11 @@ Mobile
     --urlm: url('../img/mobile/mathblitz-mobile.png');
 }
 
+.mob3 {
+    --url: url('../img/mobile/letshangout.png');
+    --urlm: url('../img/mobile/letshangout-mobile.png')
+}
+
 /*#######
 Personal
 #########
